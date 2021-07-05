@@ -1,0 +1,261 @@
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+
+Tour ID: 1
+Name: Insha Samnani
+Gender: Female
+Address: A-3 Fair Plaza
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 123
+Age: 19
+Strengths: Leadersip skills
+Weaknesses: Anger
+Interests: Sports, Leading troops
+Medical Problems: None
+
+
+Information of member 2: 
+
+
+Tour ID: 2
+Name: Saira
+Gender: Female
+Address: Garden
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 1234
+Age: 25
+Strengths: None
+Weaknesses: None
+Interests: Sports
+Medical Problems: Breathing problem
+
+Environment selected by whole group is: Cold and calm environment
+
+Appointed Tour Guide: Anus Malik
+
+
+
+Total Amount to be paid:191.6
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: Insa
+Gender: Female
+Address: A-3
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 109
+Age: 23
+Strengths: Confident
+Weaknesses: None
+Interests: Sports, Leading troops, Capturing moments
+Medical Problems: Blood pressure
+
+Environment selected by whole group is: Cold and calm environment
+
+Appointed Tour Guide: Atif Alam
+
+
+
+Total Amount to be paid:4239.6
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: Raim
+Gender: Male
+Address: Corun
+Contact number: +923467654324
+Emergency contact number: +923456765432
+Account number: 12
+Age: 22  
+Strengths: None
+Weaknesses: None
+Interests: Making and listening to music, Health care
+Medical Problems: Breathing problem, Physical disability
+
+
+Information of member 2: 
+
+Tour ID: 2
+Name: Raksan
+Gender: Male
+Address: Clifton
+Contact number: +923455555555
+Emergency contact number: +923000000000
+Account number: 1234
+Age: 25 
+Strengths: None
+Weaknesses: None
+Interests: Making or listening to music
+Medical Problems: Blood pressure
+
+Environment selected by whole group is: Cold and calm environment
+
+Appointed Tour Guide: Atif Alam
+
+
+
+Total Amount to be paid:4239.6
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: 1
+Gender: Female
+Address: A
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 1
+Age: 1
+Strengths: 1
+Weaknesses: 1
+Interests: 1
+Medical Problems: 1
+
+Environment selected by whole group is: Cold and calm environment
+
+Appointed Tour Guide: Anus Malik
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: Zara
+Gender: Female
+Address: Clifton
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 12134
+Age: 19
+Strengths: None
+Weaknesses: None
+Interests: Sports, Health care, Capturing moments
+Medical Problems: Physical disability
+
+Environment selected by whole group is: Cold and calm environment
+
+Appointed Tour Guide: Anus Malik
+
+
+
+Total Amount to be paid:375.36
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: Raza Sohail
+Gender: Male
+Address: Fawara Chock
+Contact number: +923456543212
+Emergency contact number: +923456765432
+Account number: 100
+Age: 29
+Strengths: Confident, Cooperative
+Weaknesses: None
+Interests: Health care
+Medical Problems: Physical disability
+
+Environment selected by whole group is: Historical environment
+
+Appointed Tour Guide: Wasim Ahmed
+
+
+
+Total Amount to be paid:143.68
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: Zama
+Gender: Female
+Address: FB Area
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 100
+Age: 24
+Strengths: None
+Weaknesses: Not Confident
+Interests: leading troops
+Medical Problems: None
+
+Environment selected by whole group is: Natural and green environment
+
+Appointed Tour Guide: Fahad Malik
+
+
+
+Total Amount to be paid:183.6
+
+
+
+N E W   G R O U P!!!!!
+
+
+Information of member 1: 
+
+Tour ID: 1
+Name: Feroza Iqbal
+Gender: Female
+Address: Inara Garden
+Contact number: +923456765432
+Emergency contact number: +923456765432
+Account number: 123
+Age: 30
+Strengths: Confident
+Weaknesses: Anger
+Interests: Leading troops, Capturing moments
+Medical Problems: Blood pressure
+
+
+Information of member 2: 
+
+Tour ID: 2
+Name: Sara Khan
+Gender: Female
+Address: Inara Garden
+Contact number: +923000000000
+Emergency contact number: +923111111111
+Account number: 1234
+Age: 33
+Strengths: None
+Weaknesses: None
+Interests: Sports
+Medical Problems: None
+
+Environment selected by whole group is: Hot and windy environment
+
+Appointed Tour Guide: Hadi Hussain
+
+
+
+Total Amount to be paid:183.6

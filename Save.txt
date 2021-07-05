@@ -1,0 +1,255 @@
+Tour Guide:
+Nature Lovers
+Shoaib Karim
+Male
+A-3 Fair Plaza, Garden, Karachi
++923456543456
++923421345654
+1002377777
+25
+Leadersip, Communication, Punctual, Active
+Nature Lovers
+5
+4.5
+2 years
+1000000 per tour
+
+Tour Guide:
+Wind Lovers
+Ahmed Khan
+Male
+B-3 Toll Plaza, Johar, Karachi
++923334567897
++923334123567
+1004567888
+28
+Creative, Manage, Active
+Wind Lovers
+7
+3.5
+3 years
+100000 per tour
+
+Tour Guide:
+Wind Lovers
+Feroz Khan
+Male
+G-3 Gulshan-E-Iqbal, Karachi
++923334567553
++923334129999
+1004555888
+27
+Leading, Active, Patient
+Wind Lovers
+5
+4.5
+2 years
+150000 per tour
+
+Tour Guide:
+Winter Lovers
+Amjad Feroz
+Male
+A-1078, Federal b Area, Karachi
++923335557897
++923338883567
+1224567888
+32
+Leading, Communication
+Winter Lovers
+5
+2.5
+6 years
+150000 per tour
+
+Tour Guide:
+Historical Lovers
+Bashir Alam
+Male
+G-9 Karimabad, Karachi
++923334554397
++923334167867
+1023457888
+25
+Creative, Punctual, Listening
+Historical Lovers
+9
+5.5
+6 years
+190000 per tour
+ 
+Tour Guide:
+Wind Lovers
+Sajjad Ahmed
+Male
+B-3, Johar, Karachi
++923334564897
++923334127777
+1004556988
+30
+Listening, Active, Patient
+Wind Lovers
+6
+4.5
+6 years
+100000 per tour
+
+Tour Guide:
+Historical Lovers
+Farooq Khan
+Male
+A-109, City Tower, Karachi
++923334555597
++923336789567
+1004534508
+27
+Creative, Active, punctual
+Historical Lovers
+9
+5.5
+8 years
+200000 per tour
+
+Tour Guide:
+Winter Lovers
+Gul Bashir
+Male
+G-4 Toll Plaza, Johar, Karachi
++923344567897
++923024126567
+1224567888
+29
+Listening, Active, Flexible, Understandable
+Winter Lovers
+12
+6.5
+9 years
+180000 per tour
+
+Tour Guide:
+Nature Lovers
+Yaseen Malik
+Male
+A-905, Gulshan-E-Iqbal, Karachi
++923335567897
++923339083567
+1004567898
+33
+Creative, Patient, Active
+Nature Lovers
+6
+4.5
+4 years
+120000 per tour
+
+Tour Guide:
+Winter Lovers
+Atif Alam
+Male
+B-3 Malir, Karachi
++923336678897
++923334190567
+1004567564
+28
+Active, Punctual, Communication
+Winter Lovers
+5
+3.5
+4 years
+110000 per tour
+
+Tour Guide:
+Historical Lovers
+Asim Aslam
+Male
+B-3 Karimabad, Karachi
++923331227897
++923334223567
+1004556748
+26
+Listening, Communication, Patient, Adaptable
+Historical Lovers
+5
+5.5
+7 years
+100000 per tour
+
+Tour Guide:
+Nature Lovers
+Majid Khan
+Male
+F-9 Toll Plaza, Johar, Karachi
++9233325227897
++923336789567
+1224567865
+31
+Creative, Active
+Nature Lovers
+6
+3.5
+4 years
+130000 per tour
+
+Tour Guide:
+Nature Lovers
+Fahad Malik
+Male
+R-1055, Federal B Area, Karachi
++923334544557
++923334125677
+1004567832
+35
+Flexible, Adaptable, Active, Punctual
+Nature Lovers
+7
+3.5
+3 years
+100000 per tour
+
+Tour Guide:
+Historical Lovers
+Wasim Ahmed
+Male
+G-7 City tower, Johar, Karachi
++923334533497
++923334134567
+1002356888
+32
+Creative, Active, Listening, Patient
+Historical Lovers
+10
+3.5
+9 years
+170000 per tour
+
+Tour Guide:
+Wind Lovers
+Hadi Hussain
+Male
+A-9 Toll Plaza, Johar, Karachi
++923335667897
++923024323567
+1004457888
+32
+Collabrative, Leadership, Punctual
+Wind Lovers
+8
+4.5
+7 years
+120000 per tour
+
+Tour Guide:
+Winter Lovers
+Anus Malik
+Male
+A9-105, Cantt, block 9, Karachi
++923334478897
++923334122309
+1204566888
+35
+Adaptable, Communication, Punctual
+Winter Lovers
+8
+5.5
+6 years
+120000 per tour
